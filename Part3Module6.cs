@@ -1,6 +1,6 @@
 using System;
 
-namespace Part1Module3
+namespace Part3Module6
 {
   class Program
   {
