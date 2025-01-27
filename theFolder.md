@@ -74,7 +74,7 @@ Tampilan Client Side pada assets hanya sebagai referensi atau contoh tampilan, k
 - tampilkan pesan error dari server jika terjadi kegagalan dalam melakukan register
 - gunakanlah endpoint [register](./api_doc.md#1-post-register) yang tersedia pada server
 
-![release-1](./assets/register.png)
+![release-1](https://media.discordapp.net/attachments/1327285243714994206/1333422156864032768/register.png?ex=6798d5a7&is=67978427&hm=6aa98775f2d21180bb2867b2431882053dd01fdd21b5d33712418aad99be2233&=&format=webp&quality=lossless&width=1120&height=670)
 
 ## Release 2 - Authentication: Login
 
@@ -83,7 +83,7 @@ Tampilan Client Side pada assets hanya sebagai referensi atau contoh tampilan, k
 - Pastikan ketika user sudah berhasil login, ketika direfresh maka user tidak harus login lagi
 - gunakanlah endpoint [login](./api_doc.md#2-post-login) yang tersedia pada server
 
-![release-2](./assets/login.png)
+![release-2](https://media.discordapp.net/attachments/1327285243714994206/1333422155333111828/login.png?ex=6798d5a7&is=67978427&hm=1f3c86261662246f20d9930711bcb5c4ebead5db6caed8acd216b7660ab9d588&=&format=webp&quality=lossless&width=1120&height=670)
 
 
 ## Release 3 - Home Page (Fetch Coins)
@@ -93,7 +93,7 @@ Tampilan Client Side pada assets hanya sebagai referensi atau contoh tampilan, k
 - Terapkan konsep component untuk setiap bagian yang bersifat `reuseable`
 - gunakanlah endpoint [get coins](./api_doc.md#3-get-coins) yang tersedia pada server
 
-![release-3](./assets/home.png)
+![release-3](https://media.discordapp.net/attachments/1327285243714994206/1333422154599104612/home.png?ex=6798d5a7&is=67978427&hm=3bf015c3aeb81b92847ed3adc24eaa3182dd465ace0fc6d833a90124e4bbb3db&=&format=webp&quality=lossless&width=1120&height=670)
 
 ## Release 4 - Fetch My Coins
 
@@ -102,7 +102,7 @@ Tampilan Client Side pada assets hanya sebagai referensi atau contoh tampilan, k
 - Terapkan konsep component untuk setiap bagian yang bersifat `reuseable`
 - gunakanlah endpoint [get usercoins](./api_doc.md#5-get-usercoins) yang tersedia pada server
 
-![release-4](./assets/my-coins.png)
+![release-4](https://media.discordapp.net/attachments/1327285243714994206/1333422156046012426/my-coins.png?ex=6798d5a7&is=67978427&hm=3016565f034cad69ca522968efa4bddf2446fcdc0535e0c876e517f4dd22def8&=&format=webp&quality=lossless&width=1120&height=670)
 
 ## Release 5 - Add Coin
 
@@ -129,7 +129,7 @@ Tampilan Client Side pada assets hanya sebagai referensi atau contoh tampilan, k
 - gunakanlah endpoint [get usercoins by id](./api_doc.md#6-get-usercoinsid) untuk melakukan populate data coin
 - dan gunakanlah enpoint [update usercoins](./api_doc.md#4-put-usercoinsid) yang tersedia pada server
 
-![release-7](./assets/update.png)
+![release-7](https://media.discordapp.net/attachments/1327285243714994206/1333422157593575465/update.png?ex=6798d5a8&is=67978428&hm=af5afe9d45ed281ee8b48f02c2d369a5563cc092acd8e82829f3e6f1b094c701&=&format=webp&quality=lossless&width=1120&height=670)
 
 ## Release 8 - Authentication: Logout
 
